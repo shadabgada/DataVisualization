@@ -1,0 +1,31 @@
+States	Confirmed cases	Deaths
+NCT of Delhi	219	4
+Haryana	43	0
+Kerala	286	2
+Rajasthan	133	0
+Telangana	107	3
+Uttar Pradesh	113	2
+Ladakh	14	0
+Tamil Nadu	309	1
+Jammu & Kashmir	70	2
+Punjab	46	4
+Karnataka	124	3
+Maharashtra	335	16
+Andhra Pradesh	132	1
+Uttarakhand	10	0
+Odisha	5	0
+West Bengal	53	3
+Puducherry 3	0
+Chandigarh	18	0
+Chhattisgarh	9	0
+Gujarat	87	7
+Madhya Pradesh	99	6
+Himachal Pradesh	6	1
+Bihar	24	1
+Manipur	2	0
+Mizoram	1	0
+Goa	6	0
+Andaman & Nicobar Islands	10	0
+Assam	16	0
+Jharkhand	2	0
+Arunanchal Pradesh	1	0
