@@ -1,5 +1,5 @@
 # DataVisualization
-#### Geographically, visualiza corona cases in Indian states
+## Geographically, visualiza corona cases in Indian states
 
 ### Install the requirement
 we are using **geopandas** library to visualize data
